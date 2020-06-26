@@ -1,5 +1,7 @@
 def prime?(numbers)
-  
+  require 'prime'
+
+Prime.prime?(8753)
 end
 
 require_relative './spec_helper'
