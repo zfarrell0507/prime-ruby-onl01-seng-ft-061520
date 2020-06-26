@@ -5,3 +5,4 @@ def prime?(numbers)
   Prime.prime?(number)
 end
 prime?()
+
