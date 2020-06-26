@@ -1,5 +1,6 @@
+
 def prime?(numbers)
-  require 'prime'
+  
 
 Prime.prime?(8753)
 end
